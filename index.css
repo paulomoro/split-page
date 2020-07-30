@@ -113,11 +113,11 @@ body{
     margin-top: 30px;
 }
 
-#container #right .text1{
+#container #right .text{
     margin-top: -20px;
     margin-left: -60px;
 }
-#container #right .text1 a{
+#container #right .text a{
     font-weight: bold;
     text-decoration: none;
     color: blue;
